@@ -1,0 +1,47 @@
+  /*************************************************************************************************************************/
+  /*                                                 LIST OF SCENARIOS                                                     */
+  /*************************************************************************************************************************/
+  // Verify the ability to upload a profile pic (FOR SMALL SIZE / MEDIUM SIZE / LARGE SIZE PICS)
+        // Launch the website and login as a registered user
+        // Navigate to the user profile page
+        // Click on the 'Upload Profile Pic' button
+        // Select an image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that the uploaded profile pic is displayed on the page
+  //----------------------------------------[WIP]----------------------------------------
+  // Verify that a user can update their existing profile pic
+        // Launch the website and login as a registered user
+        // Navigate to the user profile page
+        // Click on the 'Upload Profile Pic' button
+        // Select an image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that the uploaded profile pic is displayed on the page
+        // Click on the 'Upload Profile Pic' button again
+        // Select a different image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that the new profile pic is displayed on the page
+  // Verify that only image files are accepted for upload
+        // Launch the website and login as a registered user
+        // Navigate to the user profile page
+        // Click on the 'Upload Profile Pic' button
+        // Select a non-image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that an error message is displayed indicating that only image files are accepted
+  // Verify that the profile pic is displayed after uploading
+        // Launch the website and login as a registered user
+        // Navigate to the user profile page
+        // Click on the 'Upload Profile Pic' button
+        // Select an image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that the uploaded profile pic is displayed on the page
+        // Logout and login again with the same user
+        // Verify that the previously uploaded profile pic is still displayed on the page  
+  // Verify that a user can delete their existing profile pic
+        // Launch the website and login as a registered user
+        // Navigate to the user profile page
+        // Click on the 'Upload Profile Pic' button
+        // Select an image file from the file chooser
+        // Click the 'Upload' button
+        // Verify that the uploaded profile pic is displayed on the page
+        // Click on the 'Delete Profile Pic' button
+        // Verify that the profile pic is no longer displayed on the page  
