@@ -1,4 +1,7 @@
-# instructions
+---------------------------------------------------------------------------------------------------------------------------------------
+# [VIDEO DEMO](https://youtu.be/0NTSKCLSJIk):
+---------------------------------------------------------------------------------------------------------------------------------------
+# Instructions 
 	- the aim is to test the upload profile pic feature
 	- test can be ran with the following command: 
 		- 'npx playwright test --headed --workers=1' 
@@ -11,7 +14,6 @@
 		- scenario 7,8,9: Verify the ability to modify a profile pic. Again, different sizes (there should be a pre-existing pic)
 		- scenario 10,11,12: Verify the ability to load incorrect file format (with pre-existing pic)
 		- scenario 12: Verify the ability to delete exisiting pic
-	- video of first test run: https://youtu.be/0NTSKCLSJIk
 ---------------------------------------------------------------------------------------------------------------------------------------
 # Notes:
 	- there seems to be behaviour difference of the WTJ platform depending on the browser used: 
