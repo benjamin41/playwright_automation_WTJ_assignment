@@ -1,4 +1,4 @@
-- instructions
+# instructions
 	- the aim is to test the upload profile pic feature
 	- test can be ran with the following command: 
 		- 'npx playwright test --headed --workers=1' 
